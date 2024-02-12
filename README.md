@@ -1,0 +1,6 @@
+- **Course**: Introduction to Scientific Computation at NTNU, spring 2021
+- **Type**: Projects
+- **Titles**:
+  - Project 1: One-dimensional diffusion model for CO2 absorption in the ocean
+  - Project 2: Photon-matter interaction — Monte Carlo simulation of X-ray imaging
+  - Project 3: The properties of four numerical methods for solving differential equations
